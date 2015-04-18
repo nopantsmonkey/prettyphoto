@@ -1,0 +1,20 @@
+{
+  "name": "PrettyPhoto",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ahb360/prettyphoto",
+  "authors": [
+    "Amir Basiri <amir.basiri@gmail.com>"
+  ],
+  "description": "Another prettyphoto with version tag :D",
+  "keywords": [
+    "prettyphoto"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
