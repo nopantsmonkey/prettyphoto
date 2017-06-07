@@ -1,0 +1,21 @@
+{
+  "name": "pretty-photo",
+  "version": "1.0.1",
+  "homepage": "https://github.com/ahb360/prettyphoto",
+  "authors": [
+    "Amir Basiri <amir.basiri@gmail.com>"
+  ],
+  "description": "Another prettyphoto with version tag :D",
+  "keywords": [
+    "prettyphoto"
+  ],
+  "license": ["GPLV2", "CC2.5"],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
+
